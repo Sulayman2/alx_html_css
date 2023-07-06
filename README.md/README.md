@@ -41,3 +41,5 @@ They solve new and ongoing problems of an organisation using their creativity an
 Alx provide a platform and the career path to become an average software engineer, equiping to be able to code and a path to learn
 
 There is a lot of sections that created to make learning easy.
+
+## Author: Sulayman Adebola Adewale (SoMcCoyJnr)
