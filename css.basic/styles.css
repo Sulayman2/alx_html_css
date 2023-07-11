@@ -1,0 +1,40 @@
+body, main 
+{
+    display:flex;
+}
+body
+{
+    flex-direction: column;
+}
+main
+{
+    flex:auto;
+}
+article
+{
+    flex:2;
+    overflow-y: auto;
+}
+aside
+{
+    flex:1;
+    overflow-y: auto;
+}
+h1
+{
+    font-size: 50px;
+}
+h2, h3
+{
+    font-family: sans-serif;
+}
+p
+{
+    font-family: serif;
+    font-style: normal;
+}
+img
+{
+    height: fit-content;
+    width: 150px;
+}
