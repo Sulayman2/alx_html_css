@@ -1,0 +1,78 @@
+body {
+    color: white;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    max-width: 1000px;
+    margin: auto;
+    background-image: url(images/Object.png);
+    background-position: center;
+}
+
+header .logo {
+    float: left;
+}
+
+.nav {
+    float: right;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+}
+
+.nav a:hover {
+    color: gold;
+}
+
+main .smiles .laugh {
+    text-align: center;
+}
+
+.mi {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.mi strong {
+    color: #c271ff;
+    font-weight: 700;
+}
+
+.cry {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 50px;
+}
+
+.cry .cry-03 p img {
+    border-radius: 50%;
+}
+
+.cry .cry-01, .cry-02, .cry-03, .cry-04 h3 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 27px;
+}
+
+.cry .cry-01, .cry-02, .cry-03, .cry-04, h3 .yes {
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.pi {
+    background-color: #c271ff;
+    background-position: inherit;
+}
+
+.piii {
+    float: right;
+}
+
